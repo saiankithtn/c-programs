@@ -5,5 +5,4 @@ int main()
  printf("enter the number to print");
  scanf("%d",&n);
  printf("entered no is:%d",n);
- return 0;
  }
